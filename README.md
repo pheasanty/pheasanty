@@ -1,6 +1,6 @@
 # Bienvenido a mi GitHub
 
-¡Hola! Soy un desarrollador apasionado por la tecnología y el desarrollo de software. Aquí encontrarás algunos de mis proyectos y contribuciones. A continuación, te detallo las tecnologías con las que trabajo:
+¡Hola! Soy un desarrollador apasionado por la tecnología y el desarrollo de software. Aquí te detallo las tecnologías con las que trabajo:
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
