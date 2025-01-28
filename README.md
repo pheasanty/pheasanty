@@ -8,10 +8,10 @@
 ## Tecnologías
 
 **Frontend:**
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) **ReactJS**, 
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) **Bootstrap**, 
-![/Ionic](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **Angular/Ionic**, 
-![](https://img.shields.io/badge/Reflex-000000?style=flat-square&logo=reflex&logoColor=white) **Reflex**
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) , 
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) , 
+![/Ionic](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) , 
+![](https://img.shields.io/badge/Reflex-000000?style=flat-square&logo=reflex&logoColor=white) 
 
 **Backend:**
 ![PHP Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) **PHP MVC (Laravel)**, 
