@@ -7,111 +7,43 @@
 
 ## Tecnologías
 
-### Frontend
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- **ReactJS**
+**Frontend:**
+![ReactJS](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) **ReactJS**, 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) **Bootstrap**, 
+![Angular/Ionic](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) **Angular/Ionic**, 
+![Reflex](https://img.shields.io/badge/Reflex-000000?style=flat-square&logo=reflex&logoColor=white) **Reflex**
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-- **Bootstrap**
+**Backend:**
+![PHP Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) **PHP MVC (Laravel)**, 
+![Python Flask/Django](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python (Flask/Django)**, 
+![Node.js Express.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) **Node.js (Express.js)**, 
+![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white) **C# .NET**
 
-![Angular/Ionic](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-- **Angular/Ionic**
+**Bases de Datos:**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) **SQL Server T-SQL**, 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL**, 
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) **SQLite**, 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **MongoDB**
 
-![Reflex](https://img.shields.io/badge/Reflex-000000?style=flat-square&logo=reflex&logoColor=white)
-- **Reflex**
+**Servidores:**
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) **Apache**, 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) **AWS**, 
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) **Heroku**
 
-### Backend
-![PHP Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-- **PHP MVC (Laravel)**
+**Web Scraping:**
+![Selenium WebDriver](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) **Selenium WebDriver (Python)**
 
-![Python Flask/Django](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Python (Flask/Django)**
+**APIs:**
+![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white) **REST**
 
-![Node.js Express.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-- **Node.js (Express.js)**
+**Contenedores:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker**
 
-![C# .NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
-- **C# .NET**
+**Análisis de Datos:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python**, 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white) **Power BI**, 
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white) **Excel VBA**
 
-### Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-- **SQL Server T-SQL**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- **MySQL**
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-- **SQLite**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- **MongoDB**
-
-### Servidores
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-- **Apache**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-- **AWS**
-
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-- **Heroku**
-
-### Web Scraping
-![Selenium WebDriver](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-- **Selenium WebDriver (Python)**
-
-### APIs
-![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
-- **REST**
-
-### Contenedores
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **Docker**
-
-### Análisis de Datos
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Python**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=white)
-- **Power BI**
-
-![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-- **Excel VBA**
-
-### RPA (Automatización de Procesos Robóticos)
-![UiPath](https://img.shields.io/badge/UiPath-0066FF?style=flat-square&logo=uipath&logoColor=white)
-- **UiPath**
-
+**RPA (Automatización de Procesos Robóticos):**
+![UiPath](https://img.shields.io/badge/UiPath-0066FF?style=flat-square&logo=uipath&logoColor=white) **UiPath**, 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=power-automate&logoColor=white)
-- **Power Automate**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Python**
-
-![C#](https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
-- **C#**
-
-### Automatización
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **Python**
-
-## Proyectos Destacados
-
-Aquí podrás encontrar algunos de mis proyectos más destacados:
-
-- **[Proyecto 1](#)**: Descripción breve del proyecto.
-- **[Proyecto 2](#)**: Descripción breve del proyecto.
-- **[Proyecto 3](#)**: Descripción breve del proyecto.
-
-## Contacto
-
-Puedes contactarme a través de los siguientes medios:
-
-- **Correo electrónico**: [tucorreo@example.com](mailto:tucorreo@example.com)
-- **LinkedIn**: [Tu perfil de LinkedIn](#)
-- **Twitter**: [Tu perfil de Twitter](#)
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-¡Gracias por visitar mi repositorio!
