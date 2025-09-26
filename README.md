@@ -15,7 +15,7 @@
 
 **Servidores:** <img src="https://img.shields.io/badge/Render-0099FF?style=flat-square&logo=render&logoColor=white" alt="Render"> <img src="https://img.shields.io/badge/SupaBase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="SupaBase"> <img src="https://img.shields.io/badge/CloudPanel-00ADEF?style=flat-square&logo=cloudflare&logoColor=white" alt="CloudPanel"> <img src="https://img.shields.io/badge/Hostinger-673AB7?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"> <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
 
-**Analítica** <img src="https://img.shields.io/badge/Posthog-000000?style=flat-square&logo=posthog&logoColor=white" alt="Posthog"> <img src="https://img.shields.io/badge/Amplitude-9146FF?style=flat-square&logo=amplitude&logoColor=white" alt="Amplitude"> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics"> <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager">
+**Analítica:** <img src="https://img.shields.io/badge/Posthog-000000?style=flat-square&logo=posthog&logoColor=white" alt="Posthog"> <img src="https://img.shields.io/badge/Amplitude-9146FF?style=flat-square&logo=amplitude&logoColor=white" alt="Amplitude"> <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics"> <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager">
 
 
 **Web Scraping:** <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium WebDriver">
@@ -30,13 +30,13 @@
 
 **Automatización:** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 
-**CI/CD** <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Flow">
+**CI/CD:** <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Git_Flow-F05032?style=flat-square&logo=git&logoColor=white" alt="Git Flow">
 
-**IA para Productividad** <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini">
+**IA para Productividad:** <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub Copilot"> <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT"> <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini">
 
-**Gestión Ágil** <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Asana-273347?style=flat-square&logo=asana&logoColor=white" alt="Asana">
+**Gestión Ágil:** <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira"> <img src="https://img.shields.io/badge/Asana-273347?style=flat-square&logo=asana&logoColor=white" alt="Asana">
 
-**Comunicación** <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"> <img src="https://img.shields.io/badge/Google_Chat-00897B?style=flat-square&logo=google-chat&logoColor=white" alt="Google Chat"> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams">
+**Comunicación:** <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack"> <img src="https://img.shields.io/badge/Google_Chat-00897B?style=flat-square&logo=google-chat&logoColor=white" alt="Google Chat"> <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams">
 
 
 
