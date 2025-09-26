@@ -15,6 +15,9 @@
 
 **Servidores:** <img src="https://img.shields.io/badge/Render-0099FF?style=flat-square&logo=render&logoColor=white" alt="Render"><img src="https://img.shields.io/badge/SupaBase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="SupaBase"><img src="https://img.shields.io/badge/CloudPanel-00ADEF?style=flat-square&logo=cloudflare&logoColor=white" alt="CloudPanel"><img src="https://img.shields.io/badge/Hostinger-673AB7?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku"><img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache">
 
+**Analítica** <img src="https://img.shields.io/badge/Posthog-000000?style=flat-square&logo=posthog&logoColor=white" alt="Posthog"><img src="https://img.shields.io/badge/Amplitude-9146FF?style=flat-square&logo=amplitude&logoColor=white" alt="Amplitude"><img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics"><img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white" alt="Google Tag Manager">
+
+
 **Web Scraping:** <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium WebDriver">
 
 **APIs:** <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST">
